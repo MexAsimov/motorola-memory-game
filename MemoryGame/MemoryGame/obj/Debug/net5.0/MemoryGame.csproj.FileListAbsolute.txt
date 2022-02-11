@@ -1,0 +1,16 @@
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.exe
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.deps.json
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.json
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.dev.json
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.dll
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\ref\MemoryGame.dll
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\bin\Debug\net5.0\MemoryGame.pdb
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.csprojAssemblyReference.cache
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfoInputs.cache
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfo.cs
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.csproj.CoreCompileInputs.cache
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.dll
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\ref\MemoryGame.dll
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.pdb
+D:\AKTUALAGH\Staż - może\motorola\motorola-memory-game\MemoryGame\MemoryGame\obj\Debug\net5.0\MemoryGame.genruntimeconfig.cache
